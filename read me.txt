@@ -1,0 +1,77 @@
+﻿ +-----------------------------------------------------------------------------------------------+
+ 
+
+ The Gray Garden ver 1.08 Instruction Manual
+ 
+ 
++-----------------------------------------------------------------------------------------------+
+
+  [Title] The Gray Garden
+  [Producer] Deep-Sea Prisoner
+ [Website] http://funamusea.com/
+ [Contact] kaiteisyuu@yahoo.co.jp
+  [Audience] All ages
+  [Tool] RPG Maker 2000 VALUE!
+  [English] vgperson
+  [English Site] http://vgperson.com/games/graygarden.htm
+
++-----------------------------------------------------------------------------------------------+
+
+ 
+ [Summary]
+ 
+  This is a freeware game. Run "StartWindowed" to play in a window, or "StartFullscreen" to play in fullscreen.
+  Battles are not particularly difficult, as the focus is on the story.
+  
+ 
+ 
+ [Basic Movement]
+ 
+  Confirm: Z key
+  Cancel: X key
+  Open Menu: X key
+  Move/Select: Arrow keys
+  Return to Title: F12
+ 
+ 
+ 
+ [Notices]
+ 
+  - The author takes no responsibility for any trouble brought about by the software.
+    You agree to take this responsibility upon starting the game.
+  - Please don't play unless you can keep a distinction between reality and fictional stories.
+  - The unapproved copying and redistribution of materials and data is prohibited.
+  - Posting gameplay videos is generally not allowed.
+ 
+ 
+ 
+ [Special Thanks]
+ 
+  Thanks go to the below sources for their music and sound effects.
+  Copyright belongs to the creators.
+ 
+  Amor Kana  http://amorkana.jp/
+  *CAMeLIA*  http://agnello-pecora.chu.jp/CAMeLIA/index.html 
+  Hagall  http://hagall.hacca.jp/
+  On-Jin  http://www.yen-soft.com/ssse/
+  Senses Circuit http://www.senses-circuit.com/
+  Maou Damashii  http://maoudamashii.jokersounds.com/
+ 
+ 
++-----------------------------------------------------------------------------------------------+
+ 
+ [Changelog]
+  12/27/2012...ver 1.00 Release
+  12/29/2012...ver 1.02 Typo fixes
+  06/30/2013...ver 1.03 Typo and map fixes
+  08/15/2013...ver 1.04 Sound effect and graphics fixes
+  12/29/2013...ver 1.05 Graphics, map, and typo fixes
+  01/20/2014...ver 1.06 Typo fixes, bug fixes
+  06/02/2014...ver 1.07 Typo fixes, bonus room changes, graphics changes
+  08/25/2014...ver 1.08 Changes to menus, maps, and graphics
+ 
++-----------------------------------------------------------------------------------------------+
+
+ (c) Deep-Sea Prisoner
+
+ +-----------------------------------------------------------------------------------------------+

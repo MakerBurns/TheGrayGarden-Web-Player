@@ -1,0 +1,70 @@
+﻿ 
+ 
+ The Gray Garden ver 1.06 Manual de Instrucciones
+ 
+ 
+ ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+ ◆                                                                  ◆
+ ◆  [Título] The Gray Garden  (El Jardín Gris)                      ◆
+ ◆  [Productor] Deep-Sea Prisoner                                   ◆
+ ◆  [Website] http://okegom.web.fc2.com/                            ◆
+ ◆  [Contacto]  okegom@yahoo.co.jp                                  ◆
+ ◆  [Herramienta] RPG Maker 2000 VALUE!                             ◆
+ ◆  [Inglés] vgperson                                               ◆
+ ◆  [Español] Tsumin                                                ◆
+ ◆  [Sitio en Inglés] http://vgperson.com/games/graygarden.htm      ◆
+ ◆                                                                  ◆
+ ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+ 
+ 
+ 
+ 
+ [Resumen]
+ 
+  Este es un juego gratuito. Inicia "StartWindowed" para jugar en una ventada o "StartFullscreen" para jugar en pantalla completa.
+  Las batallas no son muy difíciles, ya que se concetra en la historia.
+  
+ 
+ 
+ [Movimiento Básico]
+ 
+  Confirmar: Z
+  Cancelar: X
+  Abrir menú: X
+  Mover/Seleccionar: Flechas
+  Regresar al título: F12
+ 
+ 
+ 
+ [Noticias]
+ 
+  - El autor no toma responsabilidad por cualquier problema causado por el software.
+    Aceptas tomar esta responsabilidad al iniciar el juego.
+  - Las copias inaprobadas y redistrubuciones de materiales y datos está prohibido.
+ 
+ 
+ 
+ [Agradecimientos Especiales]
+ 
+  Gracias a los enlaces de abajo por su música y efectos de sonido.
+  El copyright pertenece a sus creadores.
+ 
+  Amor Kana  http://amorkana.jp/
+  *CAMeLIA*  http://agnello-pecora.chu.jp/CAMeLIA/index.html 
+  Hagall  http://hagall.hacca.jp/
+  On-Jin  http://www.yen-soft.com/ssse/
+  Senses Circuit http://www.senses-circuit.com/
+  Maou Damashii  http://maoudamashii.jokersounds.com/
+ 
+ 
+ 
+ [Changelog]
+  12/27/2012...ver 1.00 Release
+  12/29/2012...ver 1.02 Typo fixes
+  06/30/2013...ver 1.03 Typo and map fixes
+  08/15/2013...ver 1.04 Sound effect and graphics fixes
+  12/29/2013...ver 1.05 Graphics, map, and typo fixes
+  01/20/2014...ver 1.06 Typo fixes, bug fixes
+ 
+ 
+ 
